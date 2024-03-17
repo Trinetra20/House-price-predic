@@ -36,7 +36,7 @@ model.fit(X_train_scaled, y_train)
 root = tk.Tk()
 root.title("House Price Predictor")
 
-# Function to predict house price
+
 def predict_price():
     try:
        
